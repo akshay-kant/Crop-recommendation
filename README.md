@@ -42,7 +42,4 @@ The Crop Recommendation System is a machine learning-based application designed 
   - `/` - Home page where users can input environmental and soil parameters.
   - `/recommend` - Processes the input and provides crop recommendations.
 
-## Installation and Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/crop-recommendation-system.git
+
